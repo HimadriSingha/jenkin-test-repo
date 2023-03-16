@@ -1,3 +1,5 @@
-!#/bin/bash
+#!/bin/bash
 echo "pooonda"
+
 echo "damapua"
+echo ""
